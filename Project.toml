@@ -1,6 +1,6 @@
 name = "VehicleSim"
 uuid = "e0769fa5-244c-4558-b677-4a3334c4b6a3"
-authors = ["Forrest Laine <forrest.laine@vanderbilt.edu>"]
+authors = ["Praful Sigdel"]
 version = "0.1.0"
 
 [deps]
